@@ -1,0 +1,27 @@
+{
+  "name": "bubblesort-bribes",
+  "version": "1.0.0",
+  "description": "a bubblesort algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joehannes-algorithm/bubblesort-bribes.git"
+  },
+  "keywords": [
+    "minimum-bribes",
+    "bubblesort",
+    "chaotic-array"
+  ],
+  "author": "Johannes Neugschwentner",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/joehannes-algorithm/bubblesort-bribes/issues"
+  },
+  "homepage": "https://github.com/joehannes-algorithm/bubblesort-bribes#readme",
+  "dependencies": {
+    "vorpal": "^1.12.0"
+  }
+}
